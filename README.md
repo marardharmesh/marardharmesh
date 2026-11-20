@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dharmesh Marar</h1>
-<h3 align="center">A polyglot Full-Stack Developer & IT CONSULTANT with over 5 years of experience</h3>
+<h3 align="center">A SENIOR TECHNOLOGY MANAGER & TECHNOLOGY ADVISOR  with over 8 years of experience</h3>
 
 <img align="right " alt="coding" width="400" src="https://thumbs.gfycat.com/ElegantHalfAmericancicada-size_restricted.gif">
 
