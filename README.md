@@ -1,30 +1,43 @@
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              DHARMESH MARAR | GITHUB PROFILE             -->
-<!--                   PREMIUM EDITION                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ====================================================== -->
+<!-- DHARMESH MARAR | FUTURISTIC GITHUB PROFILE V2          -->
+<!-- ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101810,100:76B900&height=190&section=header&text=DHARMESH%20MARAR&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=TECHNOLOGY%20LEADER%20%7C%20ADVISOR%20%7C%20INNOVATOR&descAlignY=62&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020403,30:071A08,70:1B4500,100:76B900&height=230&section=header&text=DHARMESH%20MARAR&fontSize=55&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=TECHNOLOGY%20LEADER%20%7C%20ADVISOR%20%7C%20INNOVATOR&descAlignY=58&descSize=16"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=650&lines=Senior+Technology+Manager;Technology+Advisor;Building+Ideas+Into+Technology;Always+Learning.+Always+Building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=76B900&center=true&vCenter=true&width=750&lines=Senior+Technology+Manager;Technology+Advisor;8%2B+Years+of+Experience;Building+Ideas+Into+Technology;Innovation+Never+Stops." />
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=marardharmesh&label=PROFILE+VIEWS&color=76B900&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=marardharmesh&label=PROFILE+VISITORS&color=76B900&style=for-the-badge&logo=github&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TECHNOLOGY-LEADERSHIP-76B900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MINDSET-INNOVATION-101810?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-8%2B%20YEARS-76B900?style=for-the-badge"/>
 
 </div>
 
 ---
 
+<div align="center">
+
+## ◈ BEYOND THE CODE. INTO THE FUTURE. ◈
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Think+Big.+Build+Smart.+Lead+Forward.;Technology+is+not+just+what+we+build.;It's+what+we+make+possible." />
+
+</div>
+
 <table>
 <tr>
 <td width="65%" valign="middle">
 
-## 👋 Hello, I'm Dharmesh!
+## 👋 HELLO, I'M DHARMESH
 
 ### SENIOR TECHNOLOGY MANAGER & TECHNOLOGY ADVISOR
 
@@ -32,15 +45,17 @@ A technology professional with **over 8 years of experience**.
 
 Passionate about technology, software development, innovation and continuously exploring new possibilities in the digital world.
 
+<br/>
+
 - 🌱 Currently learning **Data Analytics**
 - 💬 Ask me about **PHP, JAVA, APP DEVELOPMENT, WEBSITE DEVELOPMENT**
-- 📫 Reach me at **marar.dharmesh4@gmail.com**
+- 📫 **marar.dharmesh4@gmail.com**
 - ⚡ Fun fact: **Curious**
 
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img width="100%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer coding animation"/>
+<img width="100%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
 </td>
 </tr>
@@ -48,86 +63,112 @@ Passionate about technology, software development, innovation and continuously e
 
 ---
 
-## 🌐 CONNECT WITH ME
-
 <div align="center">
 
+## 🌐 CONNECT WITH ME
+
 <a href="https://www.linkedin.com/in/dharmesh-marar-851090285/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-76B900?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-76B900?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:marar.dharmesh4@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-76B900?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-76B900?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## ⚡ TECHNOLOGY STACK
-
 <div align="center">
 
-### Languages & Programming
+## ⚡ THE TECHNOLOGY UNIVERSE
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,python,ruby,kotlin&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=76B900&center=true&vCenter=true&width=600&lines=Engineering+Tomorrow;Exploring+Emerging+Technologies;Turning+Complexity+Into+Solutions"/>
 
-### Frontend & Application Development
+### ◈ PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react,android&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,python,ruby,kotlin&theme=dark"/>
 
-### Backend & Frameworks
+### ◈ FRONTEND & APPLICATION DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=laravel,codeigniter,django,express,nestjs,nodejs,rails&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react,android&theme=dark"/>
 
-### Cloud, DevOps & Infrastructure
+### ◈ BACKEND & FRAMEWORKS
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,codeigniter,django,express,nestjs,nodejs,rails&theme=dark"/>
 
-### Databases & Data Analytics
+### ◈ CLOUD, DEVOPS & INFRASTRUCTURE
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,oracle,sqlite,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,git&theme=dark"/>
 
-### Other Tools & Technologies
+### ◈ DATABASES & DATA ANALYTICS
 
-<img src="https://skillicons.dev/icons?i=matlab,unity,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,oracle,sqlite,firebase&theme=dark"/>
+
+### ◈ OTHER TOOLS & TECHNOLOGIES
+
+<img src="https://skillicons.dev/icons?i=matlab,unity,postman&theme=dark"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" alt="Pandas"/>
 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="45" alt="Microsoft SQL Server"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" alt="Microsoft SQL Server"/>
 
 </div>
 
 ---
 
-## 📊 GITHUB ANALYTICS
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=marardharmesh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=76B900&icon_color=76B900&text_color=FFFFFF&include_all_commits=true" alt="GitHub Stats"/>
+## 📊 GITHUB PERFORMANCE CENTER
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marardharmesh&layout=compact&hide_border=true&bg_color=0D1117&title_color=76B900&text_color=FFFFFF" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=marardharmesh&show_icons=true&hide_border=true&bg_color=050A06&title_color=76B900&icon_color=76B900&text_color=FFFFFF&include_all_commits=true&rank_icon=github" width="49%" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marardharmesh&layout=compact&hide_border=true&bg_color=050A06&title_color=76B900&text_color=FFFFFF" width="49%" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=marardharmesh&hide_border=true&background=0D1117&ring=76B900&fire=76B900&currStreakLabel=76B900&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak"/>
+### ⚡ CONTRIBUTION ACTIVITY
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=marardharmesh&bg_color=050A06&color=76B900&line=76B900&point=FFFFFF&area=true&hide_border=true&custom_title=DHARMESH'S%20CONTRIBUTION%20UNIVERSE" alt="Contribution Activity Graph"/>
 
 </div>
 
 ---
 
-## 🟢 MY PHILOSOPHY
+<div align="center">
+
+## 🧬 MY CONTRIBUTION MATRIX
+
+<img width="95%" src="https://github.com/marardharmesh/marardharmesh/blob/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake"/>
+
+<br/><br/>
+
+## 🚀 THE 3D CONTRIBUTION UNIVERSE
+
+<img width="95%" src="https://raw.githubusercontent.com/marardharmesh/marardharmesh/main/profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contributions"/>
+
+</div>
+
+---
 
 <div align="center">
 
-### "Curiosity drives innovation. Technology makes it possible."
+## ◈ THE MINDSET
 
-*Always exploring. Always evolving. Always building.*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3500&pause=1000&color=76B900&center=true&vCenter=true&width=750&lines=Curiosity+Drives+Innovation.;Technology+Makes+It+Possible.;Never+Stop+Learning.+Never+Stop+Building."/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:76B900,50:101810,100:050505&height=110&section=footer"/>
+### "Think beyond possibilities. Build beyond expectations."
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:76B900,40:1B4500,100:020403&height=150&section=footer&animation=fadeIn"/>
 
 </div>
+
+<!-- ====================================================== -->
+<!--                    END OF PROFILE                      -->
+<!-- ====================================================== -->
